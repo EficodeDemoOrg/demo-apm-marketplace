@@ -1,0 +1,20 @@
+{
+  "name": "demo-apm-marketplace",
+  "owner": {
+    "name": "EficodeDemoOrg",
+    "url": "https://github.com/EficodeDemoOrg"
+  },
+  "plugins": [
+    {
+      "name": "demo-apm-package",
+      "description": "A demo APM package for demonstration purposes.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "EficodeDemoOrg/demo-apm-package",
+        "ref": "v1.0.0",
+        "sha": "d7920cc772ee3299a8b35c676bff00ffc1882410"
+      }
+    }
+  ]
+}
